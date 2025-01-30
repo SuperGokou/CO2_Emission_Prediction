@@ -1,6 +1,7 @@
 Modeling Electricity Generation in the United States
 
-Members: Spencer Doyle, Abbie Kinaro
+Members: Spencer Doyle, Abbie Kinaro, Ming Xia
+
 Data Sources:
 For our analysis, we are utilizing electricity generation data obtained from the United
 States Energy Information Administration (EIA). The response variable in our dataset is clean
